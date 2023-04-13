@@ -12,13 +12,10 @@ An ecommerce store built with MERN stack. This ecommerce store enable two main d
 To run the Admin interface use Email Address : admin@admin.com and Password: admin
 
 <h5><b>Demo<b><h5>
-This application is deployed on Heroku. Please check it out 😄 here.
-https://npshop.herokuapp.com/
-
 Install
 Some basic Git commands are:
 
-$ git clone https://github.com/naisarg53/ecommerce-mern-web-app.git
+$ git clone https://github.com/elkhaldaoui/FILE-ROUGE-2year-.git
 $ cd client
 $ npm install
 Setup
